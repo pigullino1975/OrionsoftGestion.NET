@@ -9,3 +9,6 @@ Sistema de gestión, punto de venta, control de stock, clientes y proveedores
 
 ### Elegir empresa:
 ![image](https://user-images.githubusercontent.com/44727413/65634839-854cfa80-dfb5-11e9-8a60-3cff47b999aa.png)
+
+### Interfaz principal:
+![image](https://user-images.githubusercontent.com/44727413/65634969-ca712c80-dfb5-11e9-9efe-3ecd1a8b754e.png)
